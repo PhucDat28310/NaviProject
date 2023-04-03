@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="class=&quot;btn btn-sm btn-success btn-open-dialog&quot;"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="class=&quot;btn btn-sm btn-success btn-open-dialog&quot;"/>
+			<item value="&lt;button class=&quot;btn btn-sm btn-success btn-open-dialog&quot; data-toggle=&quot;modal&quot; data-target=&quot;#myModal&quot;&gt;"/>
+			<item value="&lt;button class=&quot;btn btn-sm btn-danger btn-add-to-cart&quot;&gt;"/>
+			<item value="Chính sách trả góp"/>
+			<item value="v"/>
+			<item value="SIÊU NHIỀU HÀNG TỐT"/>
+			<item value="&lt;div class=&quot;ung-dung&quot; style=&quot;background-color: rgb(243, 241, 241);&quot; bis_skin_checked=&quot;1&quot;&gt;"/>
+			<item value="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD"/>
+			<item value="&lt;a class=&quot;nav-link&quot; style=&quot;color: white;&quot; href=&quot;/about&quot;&gt;GIỚI THIỆU&lt;/a&gt;"/>
+			<item value="&lt;img src=&quot;/static/images/slideshow/slide1.jpg&quot; alt=&quot;Los Angeles&quot; width=&quot;100%&quot; height=&quot;342px&quot;&gt;"/>
+			<item value="0935542813"/>
+			<item value="&gt;&gt;&gt;&gt;&gt;&gt;&gt; branch &apos;master&apos; of https://github.com/truongminh2k0/DuAnTotNghiep.git"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="419"/>
+		<item key="DIALOG_Y_ORIGIN" value="296"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
